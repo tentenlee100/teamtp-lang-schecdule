@@ -14,6 +14,13 @@
             <div class="form-group mt-2">
               <textarea v-model="text" class="form-control" id="exampleFormControlTextarea1" rows="20"></textarea>
             </div>
+            <p class="mt-0 mb-2"><small>此功能測試過從5月到7/7之間的所有貼文，都可正常顯示，但是無法顯示更換時間的備註。</small></p>
+            <p class="mt-0 mb-2"><small>只需貼上目前左邊樣式的文字即可，其他部分都不要再貼上。</small></p>
+            <p class="mt-0 mb-2"><small>目前只在windows 10上的chrome瀏覽器測試過，其他瀏覽器我不確定是否有支援。</small></p>
+            <p class="mt-0 mb-2"><small>若使用上遇到任何問題可email 給我 tentenlee100@gmail.com。</small></p>
+
+            <p><small>原始貼文<a href="https://www.facebook.com/AKB48TeamTP/posts/2356223607977052" target="_blank">Team TP Facebook</a></small></p>
+
           </div>
         </div>
         <div class="col-8">

@@ -1,7 +1,7 @@
 <template>
-  <div id="">
-    <div class="img-fluid bg-dark p-1" >
-      <div class="overflow-auto m-2">
+  <div class="my-2">
+    <div class="img-fluid bg-dark px-2 py-1" >
+      <div class="overflow-auto">
         <v-stage ref="stage" :config="configKonva">
           <v-layer>
             <v-group>
